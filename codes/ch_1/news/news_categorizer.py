@@ -1,6 +1,5 @@
 import os
 
-
 def get_file_list(dir_name):
     return os.listdir(dir_name)
 
